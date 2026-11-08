@@ -1,0 +1,16 @@
+Third-party notices
+
+The ffmpeg filter settings, the hook rule, the L* formula and the loudness targets
+come from sarpstar/cinecode (scripts/qc.py), used under the MIT License:
+  Copyright (c) 2026 Sarp Yildiz (@sarpstar)
+
+The PASS/WARN/FAIL report, frame-0 check and exit-code contract follow
+win4r/video-director (video-director/scripts/qa_video.py), MIT License:
+  Copyright (c) 2026 win4r
+
+The 3 s longest-still detector settings and the 10 s alarm come from
+andyhuo520/vibe-knowledge (skills/vibe-knowledge/tools/qa.py), MIT License:
+  Copyright (c) 2026 Berryxia (andyhuo520)
+
+These portions are provided under the same MIT permission notice and warranty
+disclaimer printed above, which applies to them with their authors' copyright.

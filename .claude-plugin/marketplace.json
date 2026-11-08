@@ -1,0 +1,13 @@
+{
+  "name": "film-preflight",
+  "owner": {
+    "name": "Dodai0419"
+  },
+  "plugins": [
+    {
+      "name": "film-preflight",
+      "source": "./",
+      "description": "Check any finished video in one ffmpeg pass before you publish it: hook, black frames, freezes, cuts, loudness."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "film-preflight",
+  "description": "Check any finished video in one ffmpeg pass before you publish it: hook, black frames, freezes, cuts, loudness.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dodai0419"
+  }
+}
